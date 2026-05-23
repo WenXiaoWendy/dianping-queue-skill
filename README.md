@@ -32,6 +32,25 @@
 > **重要：对于第一次取号的店铺，建议直接发送大众点评分享链接。**  
 > 这样可以跳过浏览器搜索步骤，直接获取店铺 ID，省下不必要的 token 消耗。已经取过号的店铺会写入本地缓存，之后可以直接报店铺名。
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="assets/setup-phone-city.png" alt="首次安装配置手机和城市" width="100%">
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/sms-login.png" alt="首次取号需使用短信验证码登录" width="100%">
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/threshold-queue.png" alt="设定触发条件的动态取号场景" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">首次安装配置手机和城市</td>
+    <td align="center">首次取号需使用短信验证码登录</td>
+    <td align="center">设定触发条件的动态取号场景</td>
+  </tr>
+</table>
+
 ## 安装
 
 ```bash
