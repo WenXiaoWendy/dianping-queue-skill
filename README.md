@@ -12,7 +12,6 @@
 ![macOS](https://img.shields.io/badge/环境-macOS-lightgrey)
 ![Ubuntu/Linux](https://img.shields.io/badge/环境-Ubuntu%20%2F%20Linux-lightgrey)
 ![Playwright](https://img.shields.io/badge/浏览器-Playwright-2ea44f)
-![闭源 Helper](https://img.shields.io/badge/核心-闭源%20helper-orange)
 
 </div>
 
