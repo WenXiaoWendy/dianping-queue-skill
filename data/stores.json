@@ -1,0 +1,17 @@
+{
+  "stores": [
+    {
+      "dpShopId": "1000000000",
+      "dpShopIdEncrypt": "sample-encrypted-shop-id",
+      "storeName": "示例火锅店（测试门店）",
+      "aliases": [
+        "示例火锅",
+        "测试门店"
+      ],
+      "address": "示例城市示例区示例路 100 号",
+      "storeUrl": "https://m.dianping.com/shopinfo/sample-shop-uuid",
+      "queueUrl": "https://dp.dianping.com/queue-take-order/queue/web/index.html?dpShopId=1000000000",
+      "lastVerifiedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

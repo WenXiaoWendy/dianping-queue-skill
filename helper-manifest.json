@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "helperName": "dianping-queue-helper",
+  "releasePage": "https://github.com/WenXiaoWendy/dianping-queue-skill/releases/tag/helper-v0.1.0",
+  "platforms": {
+    "darwin-arm64": {
+      "url": "https://github.com/WenXiaoWendy/dianping-queue-skill/releases/download/helper-v0.1.0/dianping-queue-helper-darwin-arm64",
+      "sha256": ""
+    },
+    "darwin-x64": {
+      "url": "https://github.com/WenXiaoWendy/dianping-queue-skill/releases/download/helper-v0.1.0/dianping-queue-helper-darwin-x64",
+      "sha256": ""
+    },
+    "linux-x64": {
+      "url": "https://github.com/WenXiaoWendy/dianping-queue-skill/releases/download/helper-v0.1.0/dianping-queue-helper-linux-x64",
+      "sha256": ""
+    }
+  }
+}
